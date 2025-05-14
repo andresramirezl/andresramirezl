@@ -1,16 +1,61 @@
-## Hi there 👋
+# andres-ramirez lagnus
 
-<!--
-**andresramirezl/andresramirezl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programador Back-End
 
-Here are some ideas to get you started:
+Especializado en Java, Spring Framework y Entornos IBM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andres%20Ramirez-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andres-felipe-r-44bb6390/)
+
+## Contacto
+
+-   **Dirección:** Barberà del Vallès
+-   **Teléfono:** 603034559
+-   **Email:** feliperamirezlopez@gmail.com
+
+## Idiomas
+
+-   Inglés: B1
+-   Castellano: Nativo
+-   Catalán: Nativo
+
+## Educación
+
+-   **IFP:** Grado Superior en Desarrollo de Aplicaciones Multiplataforma
+-   **Universidad de Barcelona:** Grado en Relaciones Laborales
+-   **Certificado PROMPT ENGINEERING:** Certificado para el manejo de LLM
+
+## Experiencia Profesional
+
+**CAPGEMINI:** Agosto 2022 - Actualidad
+
+* **Programador Java:** Experiencia en desarrollo y mantenimiento de aplicaciones (Front-End & Back-End). Especializado en Spring Boot, API REST, Angular y Gradle.
+* **Migración de VB a Java (Spring Boot):** Modernización de arquitectura con microservicios (REST APIs), PostgreSQL, Liquibase, JPA, Mockito, Docker y CI/CD.
+* Mantenimiento de aplicativo interno de la consultora.
+
+**INDRA:** Abril 2020 - Agosto 2022
+
+* **Programador Host PL/I:** Experiencia en desarrollo y mantenimiento de aplicaciones bancarias, especializado en Back-End en entornos IBM (Host PL/I).
+* Desarrollo de aplicación de tarjetas bancarias, gestionando el ciclo de vida de clientes.
+* Trabajo con arquitectura propia del cliente basada en Spring Framework, JSP, POJOs, MVC y Absis Java.
+
+**CENTRAL CASH:** Abril 2019 - Octubre 2019 (Prácticas)
+
+* Prácticas de Programación desarrollando con C# y ASP.NET en arquitectura Microsoft.
+* Creación de una aplicación web con ASP.NET.
+* Análisis e implementación de adaptación a entorno móvil con Kotlin.
+
+## Tecnologías
+
+**Back-End:** `Java (Spring Boot, JPA, Hibernate), PL/I, C#, REST APIs, Microservicios, Socket, Batch, Postman`
+
+**Bases de Datos:** `SQL Server, PostgreSQL, Liquibase`
+
+**DevOps:** `Docker, CI/CD (Jenkins/GitLab), Kibana, Azure DevOps`
+
+**Testing:** `Mockito, JUnit`
+
+---
+
+Ahora las tecnologías deberían aparecer correctamente en tu `README.md`. Simplemente he puesto cada grupo de tecnologías entre comillas invertidas (`) para que se muestren como código en línea.
+
+¿Esto se ve mejor? ¿Hay alguna otra cosa que te gustaría modificar o añadir?
