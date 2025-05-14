@@ -1,4 +1,4 @@
-# andres-ramirez lagnus
+# andres-ramirez lagnus  :bowtie:
 
 ## Programador Back-End
 
@@ -44,10 +44,19 @@ Especializado en Java, Spring Framework y Entornos IBM
 * Creación de una aplicación web con ASP.NET.
 * Análisis e implementación de adaptación a entorno móvil con Kotlin.
 
-## Tecnologías
+## 🛠️ Mi Universo de Tecnologías
+
+<img src="https://wallpapercave.com/wp/wp9757080.jpg" alt="Cosmic 4K Wallpaper" title="Cosmic 4K Wallpaper" width="700" height="394">
+
+### Languages:
+| Python | Java | JavaScript | Solidity | HTML5 | CSS3 |
+|----------|----------|----------|----------|
+| <img src="https://techstack-generator.vercel.app/python-icon.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/csharp-icon.svg" title="Java"  alt="Java" width="55" height="55"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity" alt="solidity" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5"  alt="Html5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css3"  alt="Css3" width="55" height="55"/> |
+
+##
 
 **Back-End:** `Java (Spring Boot, JPA, Hibernate), PL/I, C#, REST APIs, Microservicios, Socket, Batch, Postman`
-
+  
 **Bases de Datos:** `SQL Server, PostgreSQL, Liquibase`
 
 **DevOps:** `Docker, CI/CD (Jenkins/GitLab), Kibana, Azure DevOps`
