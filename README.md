@@ -54,8 +54,4 @@ Especializado en Java, Spring Framework y Entornos IBM
 
 **Testing:** `Mockito, JUnit`
 
----
 
-Ahora las tecnologías deberían aparecer correctamente en tu `README.md`. Simplemente he puesto cada grupo de tecnologías entre comillas invertidas (`) para que se muestren como código en línea.
-
-¿Esto se ve mejor? ¿Hay alguna otra cosa que te gustaría modificar o añadir?
